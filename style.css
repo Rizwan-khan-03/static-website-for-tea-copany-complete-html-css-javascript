@@ -293,7 +293,13 @@ a {
 
 
 /* skills */
-
+.expertise{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+}
 .skills {
     background: var(--maingray);
 }
